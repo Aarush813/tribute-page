@@ -1,0 +1,38 @@
+#img-div {
+    text-align: center;
+    background: white;
+    
+}
+#image {
+    width: 460px;
+    height: auto;
+    padding: 50px;
+}
+#img-caption {
+    display: block;
+    padding: 50px;
+}
+#title {
+    text-align: center;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.wiki {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+body {
+    background-color: lightgray;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+#w {
+    background-color: white;
+    font-size: 20px;
+}
+#time {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
